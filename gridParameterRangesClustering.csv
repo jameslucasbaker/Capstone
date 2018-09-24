@@ -1,0 +1,10 @@
+ngram_max,3
+story_threshold,0.25,0.26,0.27
+tfidf_maxdf,0.5
+tfidf_mindf,2
+max_length,50
+parts_of_speech,VERB+PROPER
+lemma_conversion,True,False
+tfidf_binary,False
+tfidf_norm,l2
+nlp_library,nltk,spaCy
