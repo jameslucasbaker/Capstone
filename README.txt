@@ -1,3 +1,12 @@
+*****
+See capstoneReportUPDATED.pdf for an overview of the project and instructions on running the code.
+*****
+
+The main code can be run directly from the two Jupyter notebooks - each dealing with a distinct step in the end-to-end process. (JamesBakerCapstonePartOne.ipynb and JamesBakerCapstonePartTwo.ipynb)
+
+
+Dependencies and environment details are as follows:
+
 python3
 
 Stanford CoreNLP from https://stanfordnlp.github.io/CoreNLP/ (see project Report for details)
