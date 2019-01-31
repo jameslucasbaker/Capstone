@@ -1,6 +1,8 @@
 *****
 See capstoneReportUPDATED.pdf for an overview of the project and instructions on running the code.
 *****
+And for background, see the project's introductory blogpost: https://medium.com/@jameslucasbaker/machine-learning-versus-the-news-3b5b479d8e6a
+*****
 
 The main code can be run directly from the two Jupyter notebooks - each dealing with a distinct step in the end-to-end process. (JamesBakerCapstonePartOne.ipynb and JamesBakerCapstonePartTwo.ipynb)
 
